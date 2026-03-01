@@ -1,0 +1,79 @@
+body {
+  background-image: url(Kumpletopic.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#navbarSupportedContent {
+  color: rgb(255, 255, 255);
+}
+.container-fluid {
+  background-color: rgb(255, 255, 255);
+}
+.h1 {
+  text-align: left;
+  margin: 10%;
+  padding-top: 3%;
+  color: aliceblue;
+}
+p {
+  text-align: justify;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: aliceblue;
+}
+.card-text {
+  color: black;
+}
+.card {
+  display: inline-block;
+  margin: 6%;
+  width: 100%;
+  background-color: black;
+  margin: auto;
+  margin-bottom: 5%;
+}
+video {
+  margin: 6%;
+}
+div a {
+  text-decoration: none;
+}
+.divVid {
+  width: 100%;
+}
+.vid {
+  width: 80%;
+  justify-content: center;
+  margin: 10%;
+}
+.card:hover {
+  background-color: rgb(210, 210, 210);
+}
+.card {
+  background-color: bisque;
+}
+.navbar {
+  background-color: black;
+  position: sticky;
+  top: 0%;
+}
+.container-fluid {
+  background-color: black;
+  position: sticky;
+  top: 0%;
+}
+nav div a {
+  color: aliceblue;
+}
+.btn {
+  background-color: antiquewhite;
+}
+.div-button {
+  text-align: center;
+  margin: 1%;
+}
+#carouselExample {
+  width: 80%;
+  margin: auto;
+}
